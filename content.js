@@ -1,1 +1,1 @@
-console.log("ombsk")
+console.log("tnume")
