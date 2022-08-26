@@ -1,1 +1,1 @@
-console.log("bdlpc")
+console.log("artok")
