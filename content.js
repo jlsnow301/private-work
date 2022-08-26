@@ -1,1 +1,1 @@
-console.log("artok")
+console.log("lqfju")
