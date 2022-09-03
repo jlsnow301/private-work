@@ -28,3 +28,4 @@ SELECT * from xaoka;
 SELECT * from ctcws;
 SELECT * from mxdro;
 SELECT * from lgxaw;
+SELECT * from stdrk;
