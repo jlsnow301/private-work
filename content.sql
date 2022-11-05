@@ -7,3 +7,4 @@ SELECT * from xuhdo;
 SELECT * from mkxit;
 SELECT * from wynuu;
 SELECT * from pktrg;
+SELECT * from tibgw;
