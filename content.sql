@@ -9,3 +9,4 @@ SELECT * from wynuu;
 SELECT * from pktrg;
 SELECT * from rabfi;
 SELECT * from xqpwc;
+SELECT * from myvog;
