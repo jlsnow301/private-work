@@ -10,3 +10,4 @@ SELECT * from pktrg;
 SELECT * from rabfi;
 SELECT * from xqpwc;
 SELECT * from myvog;
+SELECT * from rdiho;
