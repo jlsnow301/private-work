@@ -12,3 +12,4 @@ SELECT * from xqpwc;
 SELECT * from myvog;
 SELECT * from rdiho;
 SELECT * from bhrln;
+SELECT * from rjjwj;
