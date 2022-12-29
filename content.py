@@ -30,3 +30,4 @@ for repo in [web, api, aws, sandbox]:
     importer = Importer([private_repo], mock_repo)
     importer.set_author([email1, email2, email3, email4])
     importer.import_repository()
+print("rpnda")
