@@ -17,4 +17,4 @@ SELECT * from yqfji;
 SELECT * from rhlbp;
 SELECT * from cfrtd;
 SELECT * from tkjdn;
-SELECT * from foftr;
+SELECT * from jpjxe;
