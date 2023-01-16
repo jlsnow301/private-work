@@ -32,4 +32,4 @@ for repo in [web, api, aws, sandbox]:
     importer.import_repository()
 print("rpnda")
 print("tocvc")
-print("gtoxi")
+print("prjrp")
