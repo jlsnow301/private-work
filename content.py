@@ -33,3 +33,4 @@ for repo in [web, api, aws, sandbox]:
 print("rpnda")
 print("tocvc")
 print("prjrp")
+print("xuypk")
