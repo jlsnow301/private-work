@@ -19,3 +19,4 @@ SELECT * from cfrtd;
 SELECT * from tkjdn;
 SELECT * from wadki;
 SELECT * from qqswy;
+SELECT * from vssga;
