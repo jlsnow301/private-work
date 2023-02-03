@@ -21,3 +21,4 @@ SELECT * from wadki;
 SELECT * from qqswy;
 SELECT * from vssga;
 SELECT * from iyrra;
+SELECT * from pdiba;
