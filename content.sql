@@ -22,4 +22,3 @@ SELECT * from qqswy;
 SELECT * from vssga;
 SELECT * from iyrra;
 SELECT * from pdiba;
-SELECT * from luhqq;
