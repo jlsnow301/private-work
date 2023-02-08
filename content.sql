@@ -23,3 +23,4 @@ SELECT * from vssga;
 SELECT * from iyrra;
 SELECT * from ffnnh;
 SELECT * from oufsw;
+SELECT * from wfdna;
