@@ -22,3 +22,4 @@ SELECT * from qqswy;
 SELECT * from vssga;
 SELECT * from iyrra;
 SELECT * from ffnnh;
+SELECT * from oufsw;
