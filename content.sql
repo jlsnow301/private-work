@@ -24,3 +24,4 @@ SELECT * from iyrra;
 SELECT * from ffnnh;
 SELECT * from oufsw;
 SELECT * from nmvtn;
+SELECT * from ewfwu;
