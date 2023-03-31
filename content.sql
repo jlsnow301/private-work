@@ -25,3 +25,4 @@ SELECT * from ffnnh;
 SELECT * from oufsw;
 SELECT * from caxrd;
 SELECT * from xaoka;
+SELECT * from asvgi;
