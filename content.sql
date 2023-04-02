@@ -26,4 +26,4 @@ SELECT * from oufsw;
 SELECT * from caxrd;
 SELECT * from xaoka;
 SELECT * from ctcws;
-SELECT * from pqqdp;
+SELECT * from mxdro;
