@@ -1,7 +1,13 @@
-# Contributions-Importer-For-Github/run_script.py
-import git
+import subprocess
+
+subprocess.check_call(["pip", "install", "GitPython"])
+subprocess.check_call(["pip", "install", "python-dotenv"])
+
 import os
+import git
+
 from git_contributions_importer import *
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -33,4 +39,6 @@ mock_repo = git.Repo(mock)
 importer = Importer([web_repo, api_repo, aws_repo, sandbox_repo], mock_repo)
 importer.set_start_from_last(True)
 importer.set_author([email1, email2, email3, email4])
+
 importer.import_repository()
+
