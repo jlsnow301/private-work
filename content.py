@@ -36,7 +36,8 @@ api_repo = git.Repo(api)
 mock_repo = git.Repo(mock)
 
 importer = Importer([web_repo, api_repo], mock_repo)
-# importer.set_start_from_last(True)
+importer.set_start_from_last(True)
+# importer.set_ignore_before_date(1691686800)
 importer.set_author([email1, email2, email3, email4])
 
 importer.import_repository()
