@@ -1,1 +1,1 @@
-console.log("ckqol")
+console.log("lresa")
