@@ -1,2 +1,2 @@
 console.log("lresa")
-console.log("uqdsw")
+console.log("egwam")
