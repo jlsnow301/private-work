@@ -1,2 +1,2 @@
 console.log("lresa")
-console.log("mklnk")
+console.log("gpnen")
