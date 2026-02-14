@@ -1,2 +1,2 @@
 console.log("lresa")
-console.log("nmurq")
+console.log("lwnoi")
