@@ -1,2 +1,2 @@
 console.log("wiamk")
-console.log("ftwxg")
+console.log("skjwi")
