@@ -1,1 +1,1 @@
-console.log("oensk")
+console.log("fuagy")
