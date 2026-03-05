@@ -6,3 +6,4 @@ SELECT * from oytbs;
 SELECT * from tljit;
 SELECT * from kvkdo;
 SELECT * from vsdvu;
+SELECT * from wqrtb;
