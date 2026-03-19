@@ -7,4 +7,4 @@ SELECT * from tljit;
 SELECT * from kvkdo;
 SELECT * from vsdvu;
 SELECT * from wqrtb;
-SELECT * from jemjp;
+SELECT * from jdrpt;
