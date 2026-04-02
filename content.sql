@@ -8,3 +8,4 @@ SELECT * from kvkdo;
 SELECT * from vsdvu;
 SELECT * from wqrtb;
 SELECT * from jdrpt;
+SELECT * from jsyhw;
