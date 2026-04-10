@@ -9,3 +9,4 @@ SELECT * from vsdvu;
 SELECT * from wqrtb;
 SELECT * from jdrpt;
 SELECT * from jsyhw;
+SELECT * from vpiaw;
