@@ -13,3 +13,4 @@ SELECT * from vpiaw;
 SELECT * from vjany;
 SELECT * from owqox;
 SELECT * from lnpqr;
+SELECT * from lqddf;
