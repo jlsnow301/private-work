@@ -18,3 +18,4 @@ SELECT * from pnsib;
 SELECT * from urojj;
 SELECT * from snmox;
 SELECT * from vctcx;
+SELECT * from hykbi;
